@@ -1,7 +1,7 @@
 # my-first-blog
-This is my first project written in React on GitHub.
+This is my first project written in React which represents a tic-tac-toe game
 
-This Project represents a tic-tac-toe game. It highlights below feaures
+Features - 
 
 1. 9 by 9 tic-tac-toe board game
 2. The game starts with symbol 'X'. The board header shows what is the next symbol
